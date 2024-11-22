@@ -18,7 +18,7 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55de75ec-40b5-4beb-8cab-d5d8bb9a8538/dfzjmvc-5d05b25f-1bae-4e61-abd1-9e5a7b7c04b2.jpg/v1/fit/w_828,h_1036,q_70,strp/makoto_yuki_from_persona_3_reload_by_monchazo_dfzjmvc-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmF4Y2FiLWQ1ZDhiYjlhODUzOFwvZGZ6am12Yy01ZDA1YjI1Zi0xYmFlLTRlNjEtYWJkMS05ZTVhN2I3YzA0YjIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cx9aMVZKAIrHToBQodPuvivE5ef4p4KxeuWeyoYN_Ng'),
+                'https://www.deviantart.com/diegoliver12/art/1124907085?raw=1'),
           ),
         ),
         title: const Text('Diego Oliver'),
